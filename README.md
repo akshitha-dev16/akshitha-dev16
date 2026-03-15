@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Akshitha
 
-<!--
-**akshitha-dev16/akshitha-dev16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer passionate about building scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🌐 Experience in React and modern web technologies
+- ☁️ Interested in cloud and AI applications
+- 🔗 Strong interest in API development
+
+---
+
+## 🛠 Tech Stack
+
+Frontend:
+- React
+- JavaScript
+- HTML
+- CSS
+
+Backend:
+- Node.js
+- Python
+- ASP.NET
+
+Database:
+- MongoDB
+- PostgreSQL
+
+Tools:
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/akshitha-reddy-b55586339
