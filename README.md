@@ -1,42 +1,50 @@
 # Hi 👋 I'm Akshitha
 
-💻 Full Stack Developer passionate about building scalable web applications.
+Senior Software Engineer with 3+ years of experience specializing in Java-based enterprise applications, microservices architectures, and cloud-native development.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer
-- 🌐 Experience in React and modern web technologies
-- ☁️ Interested in cloud and AI applications
-- 🔗 Strong interest in API development
+- 💻 **Senior Software Engineer** at GE HealthCare
+- 🎓 **Master's in CS and IT in Management** from Lindsey Wilson College
+- 🛠️ Expertise in **Java, Spring Boot, Microservices, and AWS**
+- ☁️ Passionate about building scalable backend systems and cloud-native solutions
+- 🧪 Strong focus on software quality through automated testing and CI/CD
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-Frontend:
-- React
-- JavaScript
-- HTML
-- CSS
+**Backend & Core:**
+- Java (Spring Boot, Hibernate/JPA)
+- Python, Node.js, C++
+- REST APIs & Microservices
 
-Backend:
-- Node.js
-- Python
-- ASP.NET
+**Cloud & DevOps:**
+- AWS (EC2, S3, Lambda, CloudWatch)
+- Docker & Kubernetes
+- Jenkins & CI/CD Pipelines
 
-Database:
-- MongoDB
-- PostgreSQL
+**Data & Databases:**
+- MySQL, PostgreSQL, MongoDB, DynamoDB
+- Data Pipelines & Processing
 
-Tools:
-- Git
-- GitHub
-- VS Code
+**Testing & Tools:**
+- JUnit, Jest
+- Git, GitHub, Bitbucket, Jira, Postman
+
+---
+
+## 📈 Experience Highlights
+
+- **GE HealthCare** | Software Engineer (Chicago, IL)
+- **DBS Bank** | Java Full Stack Developer
+- **Zingaro AI Pvt. Ltd.** | Full Stack Developer
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/akshitha-reddy-b55586339
+- **LinkedIn:** [linkedin.com/in/akshitha-reddy-b55586339](https://www.linkedin.com/in/akshitha-reddy-b55586339)
+- **Location:** Dallas, Texas
